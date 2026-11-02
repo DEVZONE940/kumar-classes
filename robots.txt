@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://devzone940.github.io/kumar-classes/sitemap.xml
